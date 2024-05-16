@@ -1,6 +1,8 @@
-#include "pch.h"
+﻿#include "pch.h"
+#include "../test/prime-factors.cpp"
+
+using namespace std;
 
 TEST(TestCaseName, TestName) {
-  EXPECT_EQ(1, 1);
-  EXPECT_TRUE(true);
+	PrimeFactor pf;
 }

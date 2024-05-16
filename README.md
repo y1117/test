@@ -1,3 +1,3 @@
-﻿#### Hello
+﻿#### PrimeFactor
 ---
-I'm README 안녕
+PrimeFactor TDD
