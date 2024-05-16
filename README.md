@@ -1,3 +1,3 @@
-#### Hello
+﻿#### Hello
 ---
-I'm README �ȳ�
+I'm README 안녕
